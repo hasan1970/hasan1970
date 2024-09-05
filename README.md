@@ -1,12 +1,13 @@
-#### Hi, I'm Hasan Shameer Muhammed 👋
+### Hi, I'm Hasan Shameer Muhammed 👋
 
-Welcome to my GitHub! I’m a Computer Engineering student at Drexel University, passionate about AI and building impactful systems that solve real-world problems.
+Welcome to my GitHub! I'm a senior at Drexel University, pursuing a dual major in Computer and Electrical Engineering with a minor in Mathematics. I have a passion for AI/ML and love building projects that create real-world impact.
 
-#### 🔭 Currently Working On
+### 🔭 Currently Working On
 - Improving my AI skills through hands-on projects in machine learning.
 - Expanding my knowledge in cloud technologies.
+- Learning more about Front-end dev + Working on my personal website!
 
-#### 📫 Let's Connect
+### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/hasansm)
 - [Email](mailto:hsm42@drexel.edu)
 
